@@ -1,0 +1,16 @@
+/home/jean-adjahoto/Stage/Gestion_Stagiaire_springboot/backend/src/main/java/com/example/gestionstagiaires/resource/StagiaireController.java
+/home/jean-adjahoto/Stage/Gestion_Stagiaire_springboot/backend/src/main/java/com/example/gestionstagiaires/service/StagiaireService.java
+/home/jean-adjahoto/Stage/Gestion_Stagiaire_springboot/backend/src/main/java/com/example/gestionstagiaires/repository/DemandeStageRepository.java
+/home/jean-adjahoto/Stage/Gestion_Stagiaire_springboot/backend/src/main/java/com/example/gestionstagiaires/model/Encadrant.java
+/home/jean-adjahoto/Stage/Gestion_Stagiaire_springboot/backend/src/main/java/com/example/gestionstagiaires/model/Stagiaire.java
+/home/jean-adjahoto/Stage/Gestion_Stagiaire_springboot/backend/src/main/java/com/example/gestionstagiaires/GestionStagiairesApplication.java
+/home/jean-adjahoto/Stage/Gestion_Stagiaire_springboot/backend/src/main/java/com/example/gestionstagiaires/repository/StagiaireRepository.java
+/home/jean-adjahoto/Stage/Gestion_Stagiaire_springboot/backend/src/main/java/com/example/gestionstagiaires/service/EmailService.java
+/home/jean-adjahoto/Stage/Gestion_Stagiaire_springboot/backend/src/main/java/com/example/gestionstagiaires/model/DemandeStage.java
+/home/jean-adjahoto/Stage/Gestion_Stagiaire_springboot/backend/src/main/java/com/example/gestionstagiaires/repository/EncadrantRepository.java
+/home/jean-adjahoto/Stage/Gestion_Stagiaire_springboot/backend/src/main/java/com/example/gestionstagiaires/repository/StatutDemandeRepository.java
+/home/jean-adjahoto/Stage/Gestion_Stagiaire_springboot/backend/src/main/java/com/example/gestionstagiaires/resource/DemandeStageController.java
+/home/jean-adjahoto/Stage/Gestion_Stagiaire_springboot/backend/src/main/java/com/example/gestionstagiaires/service/EncadrantService.java
+/home/jean-adjahoto/Stage/Gestion_Stagiaire_springboot/backend/src/main/java/com/example/gestionstagiaires/model/StatutDemande.java
+/home/jean-adjahoto/Stage/Gestion_Stagiaire_springboot/backend/src/main/java/com/example/gestionstagiaires/service/DemandeStageService.java
+/home/jean-adjahoto/Stage/Gestion_Stagiaire_springboot/backend/src/main/java/com/example/gestionstagiaires/resource/EncadrantController.java

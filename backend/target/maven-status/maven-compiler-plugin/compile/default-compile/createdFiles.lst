@@ -1,0 +1,16 @@
+com/example/gestionstagiaires/service/DemandeStageService.class
+com/example/gestionstagiaires/model/Encadrant.class
+com/example/gestionstagiaires/model/StatutDemande.class
+com/example/gestionstagiaires/model/DemandeStage.class
+com/example/gestionstagiaires/repository/EncadrantRepository.class
+com/example/gestionstagiaires/model/Stagiaire.class
+com/example/gestionstagiaires/repository/DemandeStageRepository.class
+com/example/gestionstagiaires/resource/DemandeStageController.class
+com/example/gestionstagiaires/repository/StagiaireRepository.class
+com/example/gestionstagiaires/resource/StagiaireController.class
+com/example/gestionstagiaires/resource/EncadrantController.class
+com/example/gestionstagiaires/GestionStagiairesApplication.class
+com/example/gestionstagiaires/service/EncadrantService.class
+com/example/gestionstagiaires/service/StagiaireService.class
+com/example/gestionstagiaires/service/EmailService.class
+com/example/gestionstagiaires/repository/StatutDemandeRepository.class
